@@ -1,14 +1,14 @@
-This assignment is submitted by following group members of GROUP 27  :
+This project is submitted by following group members:
 
-Rashik Kotwal  (1211223842) - rashik.kotwal@asu.edu
-Palak Anmol (1211167513) - panmol@asu.edu
-Sharvil Shah (1210907695) - sdshah10@asu.edu
-Saaketgchandra Muppana (1210916184) - smuppana@asu.edu
+Sharvil Shah - sdshah10@asu.edu
+Rashik Kotwal - rashik.kotwal@asu.edu
+Palak Anmol - panmol@asu.edu
+Saakethchandra Muppana - smuppana@asu.edu
 
 
 Steps to run this project : 
 
-Unzip assignment3.
+Download assignment3.
 Import folder assignment3 on Android Studio. Or simply open the project on Android Studio.
 Now tap Run button on task bar and select the android device where you want to run the android code./  Install .apk file to your device.
 
